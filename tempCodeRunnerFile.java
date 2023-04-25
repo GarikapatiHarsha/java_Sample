@@ -1,1 +1,1 @@
-binary
+readLine
